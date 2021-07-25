@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/views/HomePage/HomePage.module.css"],"names":[],"mappings":"AAAA,+BACE,eACF","file":"home-page.bfcb795f.chunk.css","sourcesContent":[".MoviesGallery {\n  list-style: none;\n}\n"]}
