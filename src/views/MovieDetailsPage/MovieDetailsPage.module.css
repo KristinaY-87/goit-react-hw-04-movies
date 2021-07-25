@@ -1,0 +1,11 @@
+.block {
+  display: flex;
+}
+.wrapper {
+  margin-left: 15px;
+}
+
+.list {
+  /* display: inline-flex; */
+  list-style: none;
+}

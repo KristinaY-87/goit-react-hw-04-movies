@@ -1,0 +1,19 @@
+.header {
+  padding-top: 24px;
+  padding-bottom: 25px;
+  font-weight: 500;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  background-color: rgb(196, 232, 247);
+}
+.list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  margin-right: 20px;
+}
+.item {
+  margin-right: 20px;
+  text-decoration: none;
+}
